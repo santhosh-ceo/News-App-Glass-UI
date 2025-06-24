@@ -1,0 +1,31 @@
+name: news_app_glass_ui
+description: "A new Flutter news app which uses liquid glass UI."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.3
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  liquid_glass_ui_design: ^1.0.3
+  flutter_riverpod: ^2.0.0
+  shared_preferences: ^2.0.0
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^4.0.0
+
+
+flutter:
+
+  uses-material-design: true
+
