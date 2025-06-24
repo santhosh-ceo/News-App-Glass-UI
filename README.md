@@ -1,6 +1,6 @@
 # news_app_glass_ui
 
-A new Flutter news app which uses liquid glass UI.
+A new Flutter project.
 
 ## Getting Started
 
