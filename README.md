@@ -1,6 +1,6 @@
 # news_app_glass_ui
 
-A new Flutter project.
+A news app
 
 ## Getting Started
 
